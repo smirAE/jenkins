@@ -1,6 +1,6 @@
 version: '2'
 services:
- jenkorappc:
+  jenkorappc:
 image: '4deq/jenkorappc:latest'
 environment:
 - "PORT:3000"
